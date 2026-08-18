@@ -17,7 +17,7 @@
 2. Bundle eCabinets?
    - **Decision:** No; deliver via update system
 3. InfoDocs files — are they necessary?
-4. ~~Is `C:\temp` required?~~ ✅
+4. ~~Is `C:\temp` required?~~ ✅ (CutReadyData\temp)
 
 ### C. Paths & Configuration
 1. Which paths in local config are necessary?
